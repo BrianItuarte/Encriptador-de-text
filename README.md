@@ -17,15 +17,17 @@ Para ejecutar el proyecto localmente, sigue estos pasos:
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/brianituarte/Encriptador-de-text.git
+   ```
 2. Navega al directorio del proyecto:
-
+```bash
 cd Encriptador-de-text
-
+```
 3. Abre el archivo index.html en tu navegador web para ver la aplicación en funcionamiento:
-
+```bash
 open index.html  # macOS
 start index.html # Windows
 xdg-open index.html # Linux
+```
 
 ## Uso
 
@@ -39,13 +41,14 @@ Si deseas contribuir a este proyecto, sigue estos pasos:
 
 Haz un fork del repositorio: Haz clic en el botón "Fork" en la esquina superior derecha de la página del repositorio en GitHub.
 Crea una nueva rama: En tu repositorio fork, crea una nueva rama para tus cambios:
-bash
-Copiar código
+```bash
 git checkout -b feature/nueva-funcionalidad
+```
 Realiza tus cambios: Modifica los archivos según sea necesario.
 Haz un commit: Guarda tus cambios y realiza un commit:
-
+```bash
 git commit -am 'Agrega nueva funcionalidad'
+```
 
 Envía un pull request: Envía un pull request desde tu repositorio fork al repositorio original para que revisemos tus cambios.
 
